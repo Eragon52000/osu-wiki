@@ -58,93 +58,91 @@ I cerchi del gameplay possono essere visti sullo schermo inferiore e la storia s
 
 ## ![osu! icon][osu! icon link] Gameplay
 
-_Tutorial: [(in bundle con PC osu!) tutorial originale][osu!tutorial basic], [Ranked beatmap version][osu!tutorial rank]_
+_Tutorial: [(in bundle con PC osu!) tutorial originale][osu!tutorial basic], [versione beatmap classificata][osu!tutorial rank]_
 
-The gameplay puts emphasis on:-
+Il gameplay pone l'accento su: -
 
-- Adaptability and reaction to stimuli (that is, the hittable objects appearing all over the screen at lightning speed).
-- Understanding of the song's beat and design.
-- Input device control.
-- Timing of hits on the object that appeared on the screen.
-- Ability to spin the mouse (or pen for tablet) on spinners.
-- Physical stamina and mental fortitude (especially longer, marathon-type songs).
-- Proper positioning and hand-eye coordination.
+- Adattabilità e reazione agli stimoli (cioè, gli oggetti suscettibili che appaiono su tutto lo schermo alla velocità della luce).
+- Comprensione del ritmo e del design della canzone.
+- Controllo del dispositivo di input.
+- Tempistica dei colpi sull'oggetto che è apparso sullo schermo.
+- Abilità di ruotare il mouse (o una penna per tablet) sugli spinner.
+- Resistenza fisica e forza mentale (specialmente canzoni più lunghe di tipo maratona).
+- Posizionamento corretto e coordinazione occhio-mano.
 
-These are some of the vital skills to become an _osu! rhythm master_.
+Queste sono alcune delle abilità fondamentali per diventare un _maestro ritmico di osu!_.
 
-The first step to begin the journey is to learn the basics (and theories) of the hittable objects (referred as _hit objects_ from here onwards).
+Il primo passo per iniziare il viaggio consiste nell'apprendere le basi (e le teorie) degli oggetti colpibili (indicati come oggetti colpiti da qui in poi).
 
-### Song Selection
+### Selezione della canzone
 
-To access the osu! game mode, press `Ctrl`+`1` at the same time.
+Per accedere alla modalità di gioco di osu!, premi `Ctrl`+`1` contemporaneamente.
 
-Alternatively, click on the `Mode` button and select `osu!`.
+In alternativa, clicca sul bottone `Mode` e seleziona `osu!`.
 
-### Gameplay Basics
+### Nozioni di base sul gameplay
 
 #### Playfield
 
-![osu! interface][osu! Interface image]
+![intefaccia di osu!][osu! Interface image]
 
-_In-game interface of osu!_
+_Interfaccia di gioco di osu!_
 
-The top-left bar is the health bar, which will decrease at a steady rate (depending on the beatmap's difficulty settings), but can be replenished by tapping notes at the right time or spinning the spinner.
-A perfectly timed hit (a 300 or Geki) will recover health more than a badly timed hit (50).
-A total miss will take a good chunk of health out of the health bar.
+La barra in alto a sinistra è la barra della salute, che diminuirà a una velocità costante (a seconda delle impostazioni di difficoltà della beatmap), ma può essere ricaricata toccando le note al momento giusto o facendo girare la ruota. Un colpo perfetto (un 300 o un Geki) recupererà la salute più di un colpo male messo in scena (50). Un errore totale porterà una buona fetta di salute fuori dalla barra della salute.
 
-On the right of the health bar is the total score.
-Below that is the accuracy.
-The circle beside the accuracy (and below the score) is a timer for the duration of the beatmap.
+A destra della barra della salute c'è il punteggio totale. 
+Sotto il punteggio totale c'è la precisione.
+Il cerchio accanto alla precisione (e sotto il punteggio) è un timer per la durata della beatmap.
 
-The number on the bottom left is the combo counter/score multiplier.
+Il numero in basso a sinistra è il contatore di combo/moltiplicatore di punteggio.
 
-#### Hit circles
-![Hit circles][osu_hit circles image]
+#### Cerchi
+![Cerchi][osu_hit circles image]
 
-_Some hit circles placed in a path to tap to the beat_
+_Alcuni cerchi posizionati in un percorso da cliccare a ritmo_
 
-A thin, similarly-coloured approach circle on the outside of the hit circle will shrink over time.
-Tap on the note at the exact point when it touches the white border of the hit circle.
-A score burst will appear after tapping the hit circle, showing the score and health changes depending on timing of the tap to the beat.
-The hit circle will disappear after the score burst.
+Un sottile cerchio di avvicinamento di colore simile all'esterno del cerchio si restringerà nel tempo. 
+Tocca la nota nel punto esatto in cui tocca il bordo bianco del cerchio. 
+Dopo aver toccato il cerchio, comparirà un combo burst, mostrando il punteggio e le variazioni di salute a seconda del momento del tocco al ritmo. 
+Il cerchio del colpo scompare dopo il combo burst.
 
-To understand the hidden charm of hit circles, do not rely on perception only; feel the beatmap's beats and rhythm.
-It will help in juggling some of the visually-complex hit circles patterns found in later difficulties.
+Per capire il fascino nascosto dei cerchi, non fare affidamento solo sulla percezione; senti i battiti e il ritmo della beatmap. 
+Aiuterà a destreggiarti tra alcuni dei pattern di cerchi visivamente complessi trovati in difficoltà maggiori.
 
-#### Sliders
-![Sliders][osu_slider image]
+#### Slider
+![Slider][osu_slider image]
 
-_A single-repeat straight slider with active orange followcircle surrounding the slider ball and a slider tick inside the slider (small white circle)_
+_Un percorso rettilineo a ripetizione singola con un followcircle arancione che circonda la sliderball e uno slider tick dentro lo slider (piccolo cerchio bianco)_
 
-First, tap on it at the right moment, however, it does not end there.
-A ball will begin to move across the path.
-Hold the mouse/keyboard-button (or keep the pen onto the tablet) and follow the ball within the thick orange circle, surrounding the ball, as it moves.
-The orange outer circle, called the follow circle, will appear if when holding onto the slider's ball, but will disappear when released.
+Innanzitutto, toccalo al momento giusto, tuttavia, non finisce qui.
+Una palla inizierà a muoversi attraverso il percorso.
+Tieni premuto il mouse/tasto della tastiera (o tieni la penna sul tablet) e segui la palla all'interno del cerchio arancione, circondando la palla, mentre si muove. 
+Il cerchio arancione esterno, chiamato followcircle, apparirà se si tiene premuto sulla sliderball, ma scomparirà quando viene rilasciato.
 
-Sometimes, as seen in the screenshot above, the ball may reverse its direction and the player must follow the ball back to the start of the path or vice versa.
-The visual cue is a reverse arrow at the ending/starting circle of the path.
+A volte, come visto nello screenshot qui sopra, la palla può invertire la sua direzione e il giocatore deve seguire la palla fino all'inizio del percorso o viceversa. 
+L'indicazione visiva è una freccia inversa nel cerchio finale/iniziale del percorso.
 
-#### Spinners
+#### Spinner
 ![Spinner][osu_spinner image]
 
-_A cleared spinner with spinner bonus_
+_Uno spinner completato con un bonus spinner_
 
-Hold on the mouse/keyboard-button (or keep the pen onto the tablet).
-From there, use the mouse (or pen) and spin the spinner in a circular motion (in either direction) until the spinner circle grows outwards completely.
-A _Clear_ notice will appear to indicate that the spinner was completed.
-If the spinner was cleared early, continue spinning to collect score bonus and gain some health back.
+Tieni premuto il mouse/tasto della tastiera (o tieni la penna sul tablet).
+Da lì, usa il mouse (o la penna) e fai ruotare lo spinner in un movimento circolare (in entrambe le direzioni) fino a quando il cerchio dello spinner non cresce completamente verso l'esterno.
+Un messaggio _Clear_ apparirà per indicare che lo spinner è stato completato.
+Se lo spinner viene completato prima del dovuto, continua a girare per raccogliere punteggio bonus e recuperare un po' di salute.
 
-The outer white circle shows how much time left to complete the spinner.
-This circle will turn red to notify that time is almost out.
-Older beatmaps, using _skin version 1.0_, will have a meter/gauge to indicate how close to clearing the spinner.
+Il cerchio bianco esterno mostra quanto tempo è rimasto per completare lo spinner.
+Questo cerchio diventerà rosso per avvisare che il tempo è quasi esaurito.
+Le beatmap più vecchie, visto che utilizzano _la versione 1.0_, avranno un misuratore/indicatore per indicare quanto è vicino il completamento dello spinner.
 
-The small box below the spinner shows spins per minute.
-The number inside that box translates to the number of spins possible, if to continue to spin the spinner at that speed for one minute.
-If mouse/keyboard-button was released (or pen did not touch the tablet) early during the spin, the spinner will stop reading the spin.
+Il piccolo box sotto lo spinner mostra i giri per minuto.
+Il numero di quel box si traduce nel numero di giri possibili, se si continua a far girare la ruota a quella velocità per un minuto.
+Se il pulsante del mouse/tasto della tastiera viene rilasciato (o la penna non ha toccato il tablet) all'inizio dello spinner, esso finirà di leggedere il giro.
 
-On the _DS_, this is a good way to scratch the touchscreen (or screen protector), especially on the higher difficulties.
-In osu!, spinners have been toned down as to not be such a nuisance to complete.
-The maximum number of spins per minute achievable is 477 which is also the rate at which the [Auto][Auto wikilink] game modifier spins while the [Spun Out][Spun Out wikilink] game modifier spins slower at 287 spins per minute.
+Nel _DS_, questo è un buon modo per graffiare il touchscreen (o la protezione dello schermo), specialmente in difficoltà maggiori.
+In osu!, gli spinner sono stati attenuati in modo tale da non essere fastidiosi da completare.
+Il numero massimo di giri al minuto ottenibile è 477 che è anche la velocità con cui il modificatore di gioco [automatico][auto wikilink] ruota mentre lo [Spun Out][Spun Out wikilink] gira più lentamente a 287 giri al minuto.
 
 ## Play Styles
 
