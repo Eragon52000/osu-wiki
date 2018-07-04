@@ -144,59 +144,59 @@ Nel _DS_, questo è un buon modo per graffiare il touchscreen (o la protezione d
 In osu!, gli spinner sono stati attenuati in modo tale da non essere fastidiosi da completare.
 Il numero massimo di giri al minuto ottenibile è 477 che è anche la velocità con cui il modificatore di gioco [automatico][auto wikilink] ruota mentre lo [Spun Out][Spun Out wikilink] gira più lentamente a 287 giri al minuto.
 
-## Play Styles
+## Stili di gioco
 
-**[Refer to Play Styles page under osu!.][Play_Styles#osu! wikilink]**
+**[Consulta la pagina Stili di gioco sotto osu!.][Play_Styles#osu! wikilink]**
 
 ## Controls
 
-The default controls for osu! are:-
+I controlli predefiniti per osu! sono:-
 
-Mouse|Keyboard|Tablet/Touchscreen
+Mouse|Tastiera|Tablet/Touchscreen
 ---|---|---|
-Left click(M1) / Right click(M2)|`Z`(K1) / `X`(K2)|Touching the screen(M1)
+Click sinisto(M1) / Click destro(M2)|`Z`(K1) / `X`(K2)|Tocco dello schermo(M1)
 
-The hit objects in osu! will accept any input from the input device, as long as each hit objects was tapped in time.
+Gli hit circles in osu! accetteranno qualsiasi input dal dispositivo di input, purché ogni oggetto colpito sia stato cliccato in tempo.
 
-If [Relax][Relax wikilink] game modifer was used, only the in-game cursor will work.
-Use the in-game cursor to follow the hit objects with automated tap.
-Spinners must still be completed.
+Se il modificatore di gioco [Relax][Relax wikilink] viene utilizzato, solo il cursore di gioco funzionerà.
+Usa il cursore di gioco per seguire gli hit circles con tocco automatico.
+Gli spinner devono comunque essere completati.
 
-If [Auto Pilot][Auto Pilot wikilink] game modifier was used, only the input from the input device will work.
-Time the tap on the hit objects with automated cursor movement.
-Spinners will follow the [Spun Out][Spun Out wikilink] mod speed.
+Se il modificatore di gioco [Auto Pilot][Auto Pilot wikilink] viene utilizzato, solo l'input del dispositivo di input funzionerà.
+Temporeggia il click sugli hit circles con il movimento automatico del cursore.
+Gli spinner andranno alla velocità della mod [Spun Out][Spun Out wikilink].
 
 ## Scoring
 
-_[Scoring Values can be found in Score under osu! Scoring Values section][Score#osu!SV wikilink]_
+_[I Valori di Punteggio possono essere trovati in Score sotto la sezione di osu! Valori di Punteggio][Score#osu!SV wikilink]_
 
-Scoring section details all the intricacies of scoring, including mathematical formula.
+La sezione Punteggio descrive tutte le complessità del punteggio, inclusa la formula matematica.
 
-### Grades
+### Gradi
 
-Grade| Condition
+Grado| Condizione
 :---:|:---
-SS | 100% accuracy
-S  | Over 90% 300s, less than 1% 50s and no misses
-A  | Over 80% 300s and no misses **OR** over 90% 300s
-B  | Over 70% 300s and no misses **OR** over 80% 300s
-C  | Over 60% 300s
-D  | Anything else
+SS | 100% precisione
+S  | Oltre il 90% di 300, meno del 1% di 50 e nessun errore
+A  | Oltre l' 80% di 300 e nessun errore **OPPURE** oltre il 90% di 300
+B  | Oltre il 70% di 300 e nessun errore **OPPURE** oltre l' 80% di 300
+C  | Oltre il 60% di 300
+D  | Qualunque altra cosa
 
-A silver S or SS can be obtained by using the _[Hidden][Hidden wikilink]_ and/or _[Flashlight][Flashlight wikilink]_ mod.
+Una S o SS argentata può essere ottenuta utilizzando la mod _[Hidden][Hidden wikilink]_ e/o _[Flashlight][Flashlight wikilink]_ mod.
 
-### Accuracy
+### Precisione
 
-Accuracy is calculated by weighting the judgement gained on each note by its value and dividing by the maximum possible amount.
+La precisione è calcolata pesando il giudizio ottenuto da ogni nota con il suo valore e dividendo per l'ammontare massimo possibile.
 
-In other words: `Accuracy = Total points of hits / (Total number of hits * 300p)`
+In altre parole: `Precisione = Punti totali dei colpi / (Punti totali dei colpi * 300p)`
 
-Term | Formula
+Termine | Formula
 :---:|:---
-**Total points of hits**   | (50s * 50p) + (100s * 100p) + (300s * 300p)
-**Total number of hits**   | (Misses + 50s + 100s + 300s) * 300
-**s**                      | Number of
-**p**                      | points
+**Punti totali dei colpi**   | (50s * 50p) + (100s * 100p) + (300s * 300p)
+**Numero totale di colpi**   | (Misses + 50s + 100s + 300s) * 300
+**s**                      | Numero di
+**p**                      | punti
 
 In other words, each _Miss_ counts as 0 points, each _50_ counts as 50 points, each _100_ as 100 points and each _300_ as 300 points.
 
